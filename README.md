@@ -1,6 +1,6 @@
 # AndroidFrameworkOrViewCollection
 
-##不断收集一些GitHub上的Android开源框架、控件以备以后使用<br/>
+不断收集一些GitHub上的Android开源框架、控件以备以后使用<br/>
 
 已知已有一个Android开源项目分类汇总<br/>
 https://github.com/Trinea/android-open-project<br/><br/>
@@ -18,13 +18,17 @@ https://github.com/alibaba/dexposed<br/>
 ####一、GridView<br/>
 1.毛玻璃背景效果的网格菜单。<br/>
 https://github.com/gotokatsuya/BlurredGridMenu<br/>
+![](https://github.com/gotokatsuya/BlurredGridMenu/blob/master/image.jpg)<br/>
 
 <br/>
 ####二、ProgressBar<br/>
 1.效果很好的下载进度条效果<br/>
 https://github.com/panwrona/DownloadProgressBar<br/>
+![](https://github.com/panwrona/DownloadProgressBar/blob/master/success.gif)<br/>
+![](https://github.com/panwrona/DownloadProgressBar/blob/master/error.gif)<br/>
 
 <br/>
 ####三、ListView<br/>
 1.一个类似iOS样式的下拉刷新，上拉加载ListView<br/>
 https://github.com/THEONE10211024/WaterDropListView<br/>
+![](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)<br/>
