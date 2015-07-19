@@ -2,7 +2,7 @@
 
 不断收集一些GitHub上的Android开源框架、控件以备以后使用
 
-已知已有一个Android开源项目分类汇总
+已知已有一个Android开源项目分类汇总\n
 https://github.com/Trinea/android-open-project
 
 
